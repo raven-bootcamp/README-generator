@@ -4,7 +4,7 @@
   "description": "A command-line application that will automatically generate a README file based on user input",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
